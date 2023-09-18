@@ -24,7 +24,8 @@ You can find out more about me on one of these platforms 🥺👉👈
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/vinialves.exe/)
 
 📈 my github stats
-<div>
+<div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=viniAOliver&show_icons=true&theme=transparent&rank_icon=github" alt="viniAOliver" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniAOliver&show_icons=true&langs_count=4&theme=transparent"/>
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=viniAOliver&theme=transparent&border_radius=3&card_width=250&hide_total_contributions=true&hide_longest_streak=true"/>
 </div>
