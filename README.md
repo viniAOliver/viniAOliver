@@ -13,7 +13,6 @@ I'm [Vinicius Alves](https://www.linkedin.com/in/viniaoliver/), a Fullstack Mobi
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </div>
 <!--END_SECTION:waka-->
 
