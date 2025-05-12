@@ -1,9 +1,9 @@
 # Hello There 👋
-I'm [Vinicius Alves](https://www.linkedin.com/in/viniaoliver/), a Fullstack Mobile Developer and a freelance Software Engineer from Brazil.
+I'm [Vinicius Alves](https://viniaoliver.github.io), a Fullstack Developer and a freelance Software Engineer from Brazil.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
 
-- 💼 any freelance work? [Contact me.](https://wa.me/558882365092) :)
+- 💼 any freelance work? [Contact me.](https://wa.me/5588996335984) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
